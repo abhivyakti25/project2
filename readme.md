@@ -1,2 +1,2 @@
 # New Project
-this projet local
+project git
