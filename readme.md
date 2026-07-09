@@ -1,2 +1,2 @@
 # New Project
-project git
+project git..
